@@ -3,21 +3,7 @@
 <html lang="en">
 <head>
 	<title>Five Day Forecast</title> 
-	.table {
-    width: 650px;
-    border: 4px solid black;
-    background-color: yellow;
-    border-collapse: collapse
-
-  }
-  th {
-    border: 5px solid;
-  }
-  td {
-    border: 5px dashed;
-    padding: 6px;
-  }
-  
+	
   <table>
   <tr>
   <th>Monday</th>
