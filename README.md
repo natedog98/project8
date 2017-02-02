@@ -44,10 +44,6 @@
   <td><img src="clear.jpg"></td>
   <td><img src="windy.jpg"></td>
   </tr>
-  
-  <td> 
-<img src=""height=""width=""alt="">
-</td>
 
 </table>
 
