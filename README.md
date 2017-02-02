@@ -38,7 +38,7 @@
   </tr>
   
   <tr>
-  <td><img src="tstorms.jpg"width="100"></td>
+  <td><img src="tstorms.jpg"></td>
   <td><img src="pcloudy.jpg"></td>
   <td><img src="chancerain.jpg"></td>
   <td><img src="clear.jpg"></td>
