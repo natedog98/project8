@@ -1,6 +1,5 @@
 # project8
 <!DOCTYPE html>
-<html lang="en">
 <head>
 	
 	<title>Five Day Forecast</title> 
@@ -106,4 +105,3 @@
 
 
 </body>
-</html>
