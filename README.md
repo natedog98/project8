@@ -2,10 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Five Day Forecast</title> 
-	<!DOCTYPE html>
-<html lang="en">
-<head>
+	
 	<title>Five Day Forecast</title> 
   
   <table>
