@@ -25,3 +25,14 @@ h1 {
 
 td{
   border-style: dotted;
+border-color: blue;
+  padding: 8px 0px 8px 0px
+    )
+    
+    .blue (
+      color: blue;
+      )
+    
+    .red {
+      color: red;
+      }
