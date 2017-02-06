@@ -42,16 +42,10 @@
   </tr>
   
   <tr>
-  <td><img src="tstorms.jpg"><?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
+  <td><img src="tstorms.jpg">
 	<key>URL</key>
-	<string>https://drive.google.com/open?id=0B_a2qgOLQhS_SlhqWW84b0ROSDA&amp;authuser=0</string>
-</dict>
-</plist>
-
-  </td>
+	<string>https://drive.google.com/open?id=0B_a2qgOLQhS_SlhqWW84b0ROSDA&amp;authuser=0</string
+	</td>
   <td><img src="pcloudy.jpg">
   </td>
   <td><img src="chancerain.jpg">
