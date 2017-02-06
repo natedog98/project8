@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
 	<title>CSS Table Styling</title>
-	<link> rel="stylesheet" type="text/css" href="project8style.css">
+	<link rel="stylesheet" type="text/css" href="project8style.css">
 	</head>	
   <body>
   
