@@ -1,6 +1,5 @@
-# project8
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
 	<title>CSS Table Styling</title>
 	<link rel="stylesheet" type="text/css" href="project8style.css">
