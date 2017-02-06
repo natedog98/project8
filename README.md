@@ -2,7 +2,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Five Day Forecast</title> 
+	<title>CSS Table Styling</title>
+	<link> rel="stylesheet" type="text/css" href="project8style.css">
+	</head>	
+  <body>
+  
+  <h1>Five Day Forecast</h1>
   
   <table>
   <tr>
@@ -14,19 +19,19 @@
   </tr>
   
   <tr>
-  <td>68</td>
-  <td>68</td>
-  <td>70</td>
-  <td>73</td>
-  <td>62</td>
+  <td class="red">68</td>
+  <td class="red">68</td>
+  <td class="red">70</td>
+  <td class="red">73</td>
+  <td class="red">62</td>
   </tr>
   
   <tr>
-  <td>53</td>
-  <td>56</td>
-  <td>52</td>
-  <td>58</td>
-  <td>50</td>
+  <td class="blue">53</td>
+  <td class="blue">56</td>
+  <td class="blue">52</td>
+  <td class="blue">58</td>
+  <td class="blue">50</td>
   </tr>
   
   <tr>
@@ -38,18 +43,20 @@
   </tr>
   
   <tr>
-  <td><img src="tstorms.jpg"></td>
-  <td><img src="pcloudy.jpg"></td>
-  <td><img src="chancerain.jpg"></td>
-  <td><img src="clear.jpg"></td>
-  <td><img src="windy.jpg"></td>
+  <td><img src="tstorms.jpg">
+  </td>
+  <td><img src="pcloudy.jpg">
+  </td>
+  <td><img src="chancerain.jpg">
+  </td>
+  <td><img src="clear.jpg">
+  </td>
+  <td><img src="windy.jpg">
+  </td>
   </tr>
 
 </table>
 
-</head>
-<body>
-
-
 </body>
+
 </html>
